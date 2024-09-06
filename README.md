@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Damien</h1>
 <h3 align="center">A passionate full-stack developer from the UK</h3>
 
-- 🌱 I’m currently studying with Le Wagon **Ruby on Rails, Javascript ES6, HTML, CSS, SQL**
+<p align="center" 🌱 I’m currently studying with Le Wagon **Ruby on Rails, Javascript ES6, HTML, CSS, SQL**
 
-- 📫 How to reach me **dam.baubriau@gmail.com**
+- 📫 How to reach me **dam.baubriau@gmail.com**</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/damien-baubriau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damien-baubriau" height="30" width="40" /></a>
 </p>
