@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damien</h1>
-<h3 align="center">A passionate Junior Full-Stack Seveloper from the UK</h3>
+<h3 align="center">A passionate Junior Full-Stack developer from the UK</h3>
 
 <p align="center"> 🌱 I’m currently studying with Le Wagon learning Ruby on Rails, Javascript ES6, HTML, CSS, SQL</p>
 
