@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Damien</h1>
 <h3 align="center">A passionate full-stack developer from the UK</h3>
 
-<p align="center"> 🌱 I’m currently studying with Le Wagon **Ruby on Rails, Javascript ES6, HTML, CSS, SQL**</p>
+<p align="center"> 🌱 I’m currently studying with Le Wagon learning Ruby on Rails, Javascript ES6, HTML, CSS, SQL</p>
 
-<p align="center"> 📫 How to reach me **dam.baubriau@gmail.com**</p>
+<p align="center"> 📫 How to reach me dam.baubriau@gmail.com**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
