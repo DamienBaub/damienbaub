@@ -1,15 +1,39 @@
-<h1 align="center">Hi 👋, I'm Damien</h1>
-<h3 align="center">A passionate Full-Stack developer from the UK</h3>
+***
 
-<p align="center"> 🌱 I’m currently studying with Le Wagon learning Ruby on Rails, Javascript ES6, HTML, CSS, SQL</p>
-
-<p align="center"> 📫 How to reach me dam.baubriau@gmail.com</p>
-
-<h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/damienbaubriau" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="damienbaubriau"height="40" width="40"/></a>
-<a href="https://linkedin.com/in/damien-baubriau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damien-baubriau" height="30" width="40" /></a>
+  <img src="https://github.com/user-attachments/assets/3a4391aa-b8be-4a06-a12e-26a6b7329a05" alt="image">
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="35"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+***
+
+<h1>Hi 👋, I'm Damien</h1>
+
+<h3>A passionate Full-Stack developer from the UK</h3>
+
+Hi there! I’m transitioning from a background in Account Executive and Sales Partner Management into the world of Full-Stack Development. I’m excited to blend my customer-focused experience with a growing technical skill set. I love solving problems and creating user-friendly designs, and I’m eager to use my strengths in data analysis and client management to build web experiences that really make an impact. As I dive into full-stack technologies, I’m all about delivering innovative solutions that not only help businesses but also make life easier for users.
+
+[Learn more](https://www.linkedin.com/in/damien-baubriau/)
+
+<h2>Coding experience:</h2>
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+<h2>Social Links</h2>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-baubriau/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DamienBaubriau)
+
+***
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/aefe1662-d695-476f-a4ec-65a894a2358a" alt="image">
+</p>
+
+***
