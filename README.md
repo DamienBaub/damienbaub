@@ -8,9 +8,9 @@
 
 <h1>Hi 👋, I'm Damien</h1>
 
-<h3>A passionate Web developer from the UK</h3>
+<h3>A passionate Developer from the UK</h3>
 
-Hi there! I’m transitioning from a background in Account Executive and Sales Partner Management into the world of Web Development. I’m excited to blend my customer-focused experience with a growing technical skill set. I love solving problems and creating user-friendly designs, and I’m eager to use my strengths in data analysis and client management to build web experiences that really make an impact. As I dive into full-stack technologies, I’m all about delivering innovative solutions that not only help businesses but also make life easier for users.
+Hi there! I’m transitioning from a background in Account Executive and Sales Partner Management into the world of Development. I’m excited to blend my customer-focused experience with a growing technical skill set. I love solving problems and creating user-friendly designs, and I’m eager to use my strengths in data analysis and client management to build web experiences that really make an impact. As I dive into full-stack technologies, I’m all about delivering innovative solutions that not only help businesses but also make life easier for users.
 
 [Learn more](https://www.linkedin.com/in/damien-baubriau/)
 
