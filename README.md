@@ -8,9 +8,11 @@
 
 <h1>Hi 👋, I'm Damien</h1>
 
-<h3>A passionate Developer from the UK</h3>
+<h3>Python Developer from the UK</h3>
 
-Hi there! I’m transitioning from a background in Account Executive and Sales Partner Management into the world of Development. I’m excited to blend my customer-focused experience with a growing technical skill set. I love solving problems and creating user-friendly designs, and I’m eager to use my strengths in data analysis and client management to build web experiences that really make an impact. As I dive into full-stack technologies, I’m all about delivering innovative solutions that not only help businesses but also make life easier for users.
+I’m transitioning from a background in Account Executive and Sales Partner Management into the world of Python development. I’m passionate about writing clean, efficient code and using Python to solve real-world problems. My background in client management has given me a strong understanding of how to translate user needs into practical, data-driven solutions.  
+
+I’m currently focused on building skills in web development, automation, and data analysis — using frameworks like Flask and Django, and exploring APIs, web scraping, and back-end logic. I love learning new technologies and creating tools that simplify workflows, improve performance, and deliver meaningful user experiences.
 
 [Learn more](https://www.linkedin.com/in/damien-baubriau/)
 
@@ -30,7 +32,6 @@ Hi there! I’m transitioning from a background in Account Executive and Sales P
 <h2>Social Links</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-baubriau/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DamienBaubriau)
 
 ***
 
