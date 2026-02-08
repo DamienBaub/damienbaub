@@ -12,7 +12,7 @@
 
 I’m transitioning from a background in Account Executive and Sales Partner Management into the world of Python development. I’m passionate about writing clean, efficient code and using Python to solve real-world problems. My background in client management has given me a strong understanding of how to translate user needs into practical, data-driven solutions.  
 
-I’m currently focused on building skills in web development, automation, and data analysis — using frameworks like Flask and Django, and exploring APIs, web scraping, and back-end logic. I love learning new technologies and creating tools that simplify workflows, improve performance, and deliver meaningful user experiences.
+I’m currently focused on building skills in web development, automation, and data analysis using frameworks like Flask and Django, and exploring APIs, web scraping, and back-end logic. I love learning new technologies and creating tools that simplify workflows, improve performance, and deliver meaningful user experiences.
 
 [Learn more](https://www.linkedin.com/in/damien-baubriau/)
 
