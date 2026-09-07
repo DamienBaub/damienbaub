@@ -20,7 +20,7 @@ My previous experience in Account Executive and Sales Partner Management has giv
 
 ---
 
-## 🎮 Games in Development
+<h2 align="center">🎮 Games in Development</h2>
 
 ### 🚦 Traffic it!
 
@@ -33,9 +33,8 @@ Control traffic lights, manage road flow and clear increasingly challenging leve
 More development updates and project pages will be added as the game progresses.
 
 ---
-<p align="center">
-  <strong>🎮 GAMES IN DEVELOPMENT</strong>
-</p>
+
+<h2 align="center">🛠 Game Development</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/game_dev2.png" alt="Game Development">
@@ -43,7 +42,7 @@ More development updates and project pages will be added as the game progresses.
 
 ---
 
-## 💻 Programming Experience
+<h2 align="center">💻 Programming Background</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/programming.png" alt="Programming Experience">
@@ -51,7 +50,8 @@ More development updates and project pages will be added as the game progresses.
 
 ---
 
-## 🌐 Social Links
+<h2 align="center">🌐 Connect</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/damien-baubriau/">
     <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/linkedin.png" alt="LinkedIn">
