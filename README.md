@@ -19,7 +19,7 @@ I focus on creating polished, responsive and accessible mobile experiences, with
 My previous experience in Account Executive and Sales Partner Management has given me a strong understanding of user needs, feedback and product experience. I bring that user-focused approach into both technical work and game development.
 
 <p align="center">
-  <img src="https://github.com/DamienBaub/damienbaub/blob/main/div2.png" width="100%" alt="">
+  <img src="https://github.com/DamienBaub/damienbaub/blob/main/div.png" width="100%" alt="">
 </p>
 
 ## 🎮 Games in Development
