@@ -65,7 +65,7 @@ Building small mobile game prototypes to learn through practical development, te
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aefe1662-d695-476f-a4ec-65a894a2358a" alt="image">
+  <img src="[https://github.com/user-attachments/assets/aefe1662-d695-476f-a4ec-65a894a2358a" alt="image](https://github.com/DamienBaub/damienbaub/blob/main/github_banner2.png)">
 </p>
 
 ---
