@@ -53,7 +53,7 @@ More development updates and project pages will be added as the game progresses.
 ## 🌐 Social Links
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/glinkedin.png" alt="LinkedIn">
+  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/linkedin.png" alt="LinkedIn">
 </p>
 
 ---
