@@ -18,7 +18,7 @@ I’m building projects from concept through prototype and testing, using each g
 
 Alongside game development, I have previous programming experience with Python, JavaScript, Ruby, Ruby on Rails, HTML and CSS.
 
-My background in Account Executive and Sales Partner Management has also given me experience in understanding user needs, gathering feedback and turning ideas into practical solutions — skills I now bring into game design and development.
+My background in Account Executive and Sales Partner Management has also given me experience in understanding user needs, gathering feedback and turning ideas into practical solutions, skills I now bring into game design and development.
 
 ### 🎮 Currently learning
 
