@@ -12,56 +12,54 @@
 
 I’m a **Senior AI Technician** with a background in software development, technical support, client management and partner management.
 
-Alongside my work in AI, I develop **2D mobile games with Godot 4 and GDScript**, targeting both **Android and iOS**.
+Alongside my work in AI, I develop **2D mobile games with Godot 4 and GDScript** for **Android and iOS**.
 
-My focus is on creating polished, responsive and enjoyable mobile experiences, with attention to gameplay systems, touch controls, user interface design, animation, performance and responsive layouts across phones and tablets.
+I focus on creating polished, responsive and accessible mobile experiences, with particular attention to gameplay systems, touch controls, user interface design, performance and iteration.
 
-I take game projects from early concept through prototyping, testing and iteration, with a practical approach to building systems that are clear, reusable and easy to expand.
+My previous experience in Account Executive and Sales Partner Management has given me a strong understanding of user needs, feedback and product experience. I bring that user-focused approach into both technical work and game development.
 
-My wider programming experience includes Python, JavaScript, Ruby, Ruby on Rails, HTML and CSS.
+---
 
-My previous experience in Account Executive and Sales Partner Management has also given me a strong understanding of user needs, feedback and product experience. I bring that user-focused approach into both technical work and game development.
+## 🎮 Games in Development
 
-### 🎮 Game Development
+### 🚦 Traffic it!
 
-**Engine:** Godot 4
-**Language:** GDScript
-**Platforms:** Android & iOS
-**Focus:** 2D mobile games, touch-first gameplay, responsive UI and reusable game systems
-
-### 🕹️ Games in Development
-
-**🚦 Traffic it!**
 *A mobile traffic-management puzzle game for Android and iOS.*
+
 `In Development` · `Godot 4` · `GDScript`
 
-More projects and development updates will be added here as they progress.
+Control traffic lights, manage road flow and clear increasingly challenging levels as efficiently as possible.
 
+More development updates and project pages will be added as the game progresses.
 
-[Learn more](https://www.linkedin.com/in/damien-baubriau/)
+---
 
-<h2>Game Development</h2>
+## 🛠️ Game Development
 
-![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=flat\&logo=godotengine\&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat\&logo=godotengine\&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat\&logo=android\&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat\&logo=apple\&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=flat&logo=godotengine&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 
-<h2>Programming Experience</h2>
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white\&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black\&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5\&logoColor=white\&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3\&logoColor=white\&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap\&logoColor=white\&style=flat)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby\&logoColor=white\&style=flat)
-![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=rubyonrails\&logoColor=white\&style=flat)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat\&logo=sqlite\&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java\&logoColor=white\&style=flat)
+## 💻 Programming Experience
 
-<h2>Social Links</h2>
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=flat)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white&style=flat)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/damien-baubriau/)
+---
+
+## 🌐 Social Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-baubriau/)
 
 ---
 
