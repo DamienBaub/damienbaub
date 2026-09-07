@@ -21,7 +21,7 @@ My previous experience in Account Executive and Sales Partner Management has giv
 <p align="center">• • • • • •</p>
 
 <p align="center">
-  <span style="font-size: 24px;"><b>GAMES IN DEVELOPMENT</b></span>
+  <h3 align="center">GAMES IN DEVELOPMENT</h3>
 </p>
 
 ### 🚦 Traffic it!
@@ -35,7 +35,7 @@ Control traffic lights, manage road flow and clear increasingly challenging leve
 More development updates and project pages will be added as the game progresses.
 
 <p align="center">
-  <big><b>GAME DEVELOPMENT</b></big>
+  <h3 align="center">GAME DEVELOPMENT</h3>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@ More development updates and project pages will be added as the game progresses.
 </p>
 
 <p align="center">
-  <span style="font-size: 24px;"><b>PROGRAMMING BACKGROUND</b></span>
+  <h3 align="center">PROGRAMMING BACKGROUND</h3>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/programming.png" alt="Programming Experience">
@@ -52,7 +52,7 @@ More development updates and project pages will be added as the game progresses.
 <p align="center">• • • • • •</p>
 
 <p align="center">
-  <span style="font-size: 24px;"><b>CONNECT</b></span>
+  <h3 align="center">CONNECT</h3>
 </p>
 
 <p align="center">
