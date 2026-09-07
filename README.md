@@ -10,7 +10,7 @@
 
 <h3>Mobile Game Developer focused on Godot 4 & GDScript 🇬🇧</h3>
 
-I’m currently focused on learning and building **2D mobile games with Godot 4 and GDScript**, with Android as my primary platform.
+I’m currently focused on learning and building **2D mobile games with Godot 4 and GDScript**, targeting both **Android and iOS**.
 
 My goal is to develop fun, polished and responsive mobile games while strengthening my understanding of game architecture, gameplay systems, UI design, touch controls, animation and performance optimisation.
 
@@ -30,7 +30,8 @@ My background in Account Executive and Sales Partner Management has also given m
 * Game architecture and reusable scenes
 * Animation and tweens
 * Game state and level progression
-* Android game development and deployment
+* Android and iOS game development
+* Mobile deployment and optimisation
 
 ### 🕹️ Current focus
 
@@ -43,6 +44,7 @@ Building small mobile game prototypes to learn through practical development, te
 ![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=flat\&logo=godotengine\&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat\&logo=godotengine\&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat\&logo=android\&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat\&logo=apple\&logoColor=white)
 
 <h2>Programming Experience</h2>
 
