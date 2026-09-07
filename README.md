@@ -8,34 +8,35 @@
 
 <h1>Hi 👋, I'm Damien</h1>
 
-<h3>Mobile Game Developer focused on Godot 4 & GDScript 🇬🇧</h3>
+<h3>Senior AI Technician | Mobile Game Developer 🇬🇧</h3>
 
-I’m currently focused on learning and building **2D mobile games with Godot 4 and GDScript**, targeting both **Android and iOS**.
+I’m a **Senior AI Technician** with a background in software development, technical support, client management and partner management.
 
-My goal is to develop fun, polished and responsive mobile games while strengthening my understanding of game architecture, gameplay systems, UI design, touch controls, animation and performance optimisation.
+Alongside my work in AI, I develop **2D mobile games with Godot 4 and GDScript**, targeting both **Android and iOS**.
 
-I’m building projects from concept through prototype and testing, using each game as an opportunity to improve my knowledge of **GDScript and practical game development**.
+My focus is on creating polished, responsive and enjoyable mobile experiences, with attention to gameplay systems, touch controls, user interface design, animation, performance and responsive layouts across phones and tablets.
 
-Alongside game development, I have previous programming experience with Python, JavaScript, Ruby, Ruby on Rails, HTML and CSS.
+I take game projects from early concept through prototyping, testing and iteration, with a practical approach to building systems that are clear, reusable and easy to expand.
 
-My background in Account Executive and Sales Partner Management has also given me experience in understanding user needs, gathering feedback and turning ideas into practical solutions, skills I now bring into game design and development.
+My wider programming experience includes Python, JavaScript, Ruby, Ruby on Rails, HTML and CSS.
 
-### 🎮 Currently learning
+My previous experience in Account Executive and Sales Partner Management has also given me a strong understanding of user needs, feedback and product experience. I bring that user-focused approach into both technical work and game development.
 
-* Godot 4
-* GDScript
-* 2D mobile game development
-* Touch controls and mobile UI
-* Responsive layouts for phones, tablets and foldables
-* Game architecture and reusable scenes
-* Animation and tweens
-* Game state and level progression
-* Android and iOS game development
-* Mobile deployment and optimisation
+### 🎮 Game Development
 
-### 🕹️ Current focus
+**Engine:** Godot 4
+**Language:** GDScript
+**Platforms:** Android & iOS
+**Focus:** 2D mobile games, touch-first gameplay, responsive UI and reusable game systems
 
-Building small mobile game prototypes to learn through practical development, testing and iteration.
+### 🕹️ Games in Development
+
+**🚦 Traffic it!**
+*A mobile traffic-management puzzle game for Android and iOS.*
+`In Development` · `Godot 4` · `GDScript`
+
+More projects and development updates will be added here as they progress.
+
 
 [Learn more](https://www.linkedin.com/in/damien-baubriau/)
 
