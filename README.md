@@ -33,8 +33,9 @@ Control traffic lights, manage road flow and clear increasingly challenging leve
 More development updates and project pages will be added as the game progresses.
 
 ---
-
-## 🛠️ Game Development
+<p align="center">
+  <strong>🎮 GAMES IN DEVELOPMENT</strong>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/game_dev2.png" alt="Game Development">
