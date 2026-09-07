@@ -1,10 +1,10 @@
-<p align="center">• • •</p>
+---
 
 <p align="center">
   <img src="https://github.com/DamienBaub/damienbaub/blob/main/github_banner.png">
 </p>
 
-<p align="center">• • •</p>
+<p align="center">• • • • • •</p>
 
 <h1>Hi 👋, I'm Damien</h1>
 
@@ -18,9 +18,7 @@ I focus on creating polished, responsive and accessible mobile experiences, with
 
 My previous experience in Account Executive and Sales Partner Management has given me a strong understanding of user needs, feedback and product experience. I bring that user-focused approach into both technical work and game development.
 
-<p align="center">• • •</p>
-
----
+<p align="center">• • • • • •</p>
 
 <h2 align="center">🎮 Games in Development</h2>
 
@@ -34,15 +32,11 @@ Control traffic lights, manage road flow and clear increasingly challenging leve
 
 More development updates and project pages will be added as the game progresses.
 
-<p align="center">• • •</p>
-
 <h2 align="center">🛠 Game Development</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/game_dev2.png" alt="Game Development">
 </p>
-
-<p align="center">• • •</p>
 
 <h2 align="center">💻 Programming Background</h2>
 
@@ -50,7 +44,7 @@ More development updates and project pages will be added as the game progresses.
   <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/programming.png" alt="Programming Experience">
 </p>
 
-<p align="center">• • •</p>
+<p align="center">• • • • • •</p>
 
 <h2 align="center">🌐 Connect</h2>
 
@@ -60,10 +54,10 @@ More development updates and project pages will be added as the game progresses.
   </a>
 </p>
 
-<p align="center">• • •</p>
+<p align="center">• • • • • •</p>
 
 <p align="center">
   <img src="https://github.com/DamienBaub/damienbaub/blob/main/github_banner2.png">
 </p>
 
-<p align="center">• • •</p>
+---
