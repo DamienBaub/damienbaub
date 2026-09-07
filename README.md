@@ -8,7 +8,7 @@
 
 <h3>Senior AI Technician | Mobile Game Developer 🇬🇧</h3>
 
-I’m a ***Senior AI Technician*** with experience across software development, technical support, client management and partner management.
+I’m a **Senior AI Technician** with experience across software development, technical support, client management and partner management.
 
 Alongside my work in AI, I develop **2D mobile games with Godot 4 and GDScript** for **Android and iOS**.
 
