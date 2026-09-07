@@ -36,10 +36,9 @@ More development updates and project pages will be added as the game progresses.
 
 ## 🛠️ Game Development
 
-![Godot](https://img.shields.io/badge/Godot_4-478CBF?style=flat&logo=godotengine&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=flat&logo=godotengine&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+<p align="center">
+  <img src="https://github.com/DamienBaub/damienbaub/blob/main/game_dev.png">
+</p>
 
 ---
 
