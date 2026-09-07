@@ -20,9 +20,13 @@ My previous experience in Account Executive and Sales Partner Management has giv
 
 <p align="center">• • • • • •</p>
 
+---
+
 <p align="center">
   <h3 align="center">GAMES IN DEVELOPMENT</h3>
 </p>
+
+---
 
 ### 🚦 Traffic it!
 
@@ -33,6 +37,8 @@ My previous experience in Account Executive and Sales Partner Management has giv
 Control traffic lights, manage road flow and clear increasingly challenging levels as efficiently as possible.
 
 More development updates and project pages will be added as the game progresses.
+
+---
 
 <p align="center">
   <h3 align="center">GAME DEVELOPMENT</h3>
@@ -58,11 +64,11 @@ More development updates and project pages will be added as the game progresses.
 
 ---
 
-<p align="center">• • • • • •</p>
-
 <p align="center">
   <h3 align="center">CONNECT</h3>
 </p>
+
+---
 
 <p align="center">
   <a href="https://www.linkedin.com/in/damien-baubriau/">
