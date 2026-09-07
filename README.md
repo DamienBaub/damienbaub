@@ -43,7 +43,7 @@ More development updates and project pages will be added as the game progresses.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/game_dev2.png" alt="Game Development">
+  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/game_dev.png" alt="Game Development">
 </p>
 
 ---
@@ -55,7 +55,7 @@ More development updates and project pages will be added as the game progresses.
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/programming.png" alt="Programming Experience">
+  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/prog.png" alt="Programming Experience">
 </p>
 
 ---
