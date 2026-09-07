@@ -1,7 +1,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3a4391aa-b8be-4a06-a12e-26a6b7329a05" alt="image">
+  <img src="https://github.com/DamienBaub/damienbaub/blob/main/github_banner.png">
 </p>
 
 ---
