@@ -20,6 +20,8 @@ My previous experience in Account Executive and Sales Partner Management has giv
 
 <p align="center">• • •</p>
 
+---
+
 <h2 align="center">🎮 Games in Development</h2>
 
 ### 🚦 Traffic it!
