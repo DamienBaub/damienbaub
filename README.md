@@ -37,7 +37,7 @@ More development updates and project pages will be added as the game progresses.
 ## 🛠️ Game Development
 
 <p align="center">
-  <img src="https://github.com/DamienBaub/damienbaub/blob/main/game_dev.png">
+  <img src="https://github.com/DamienBaub/damienbaub/blob/main/game_dev.png?raw=true"
 </p>
 
 ---
