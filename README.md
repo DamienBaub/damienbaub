@@ -4,8 +4,6 @@
   <img src="https://github.com/DamienBaub/damienbaub/blob/main/github_banner.png">
 </p>
 
-<p align="center">• • • • • •</p>
-
 <h1>Hi 👋, I'm Damien</h1>
 
 <h3>Senior AI Technician | Mobile Game Developer 🇬🇧</h3>
@@ -17,8 +15,6 @@ Alongside my work in AI, I develop **2D mobile games with Godot 4 and GDScript**
 I focus on creating polished, responsive and accessible mobile experiences, with particular attention to gameplay systems, touch controls, user interface design, performance and iteration.
 
 My previous experience in Account Executive and Sales Partner Management has given me a strong understanding of user needs, feedback and product experience. I bring that user-focused approach into both technical work and game development.
-
-<p align="center">• • • • • •</p>
 
 ---
 
@@ -75,8 +71,6 @@ More development updates and project pages will be added as the game progresses.
     <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/linkedin.png" alt="LinkedIn">
   </a>
 </p>
-
-<p align="center">• • • • • •</p>
 
 <p align="center">
   <img src="https://github.com/DamienBaub/damienbaub/blob/main/github_banner2.png">
