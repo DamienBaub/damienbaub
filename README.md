@@ -38,16 +38,25 @@ More development updates and project pages will be added as the game progresses.
   <h3 align="center">GAME DEVELOPMENT</h3>
 </p>
 
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/game_dev2.png" alt="Game Development">
 </p>
 
+---
+
 <p align="center">
   <h3 align="center">PROGRAMMING BACKGROUND</h3>
 </p>
+
+---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/programming.png" alt="Programming Experience">
 </p>
+
+---
 
 <p align="center">• • • • • •</p>
 
