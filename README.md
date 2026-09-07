@@ -52,7 +52,9 @@ More development updates and project pages will be added as the game progresses.
 
 ## 🌐 Social Links
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damien-baubriau/)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/glinkedin.png" alt="LinkedIn">
+</p>
 
 ---
 
