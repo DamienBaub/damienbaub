@@ -35,7 +35,7 @@ Control traffic lights, manage road flow and clear increasingly challenging leve
 More development updates and project pages will be added as the game progresses.
 
 <p align="center">
-  <span style="font-size: 24px;"><b>GAME DEVELOPMENT</b></span>
+  <big><b>GAME DEVELOPMENT</b></big>
 </p>
 
 <p align="center">
