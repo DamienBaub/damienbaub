@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/teralia_logo.png"
        alt="Teralia"
-       width="150">
+       width="140">
 </p>
 
 <h1 align="center">TERALIA GAMES</h1>
@@ -31,46 +31,11 @@
 </p>
 
 <p align="center">
-  Building mobile games with <strong>Godot 4</strong> and <strong>GDScript</strong>
-  for Android and iOS.
-</p>
-
-<p align="center">
-  🎮 Mobile Focus &nbsp; • &nbsp;
-  ⚙️ Godot 4 &nbsp; • &nbsp;
-  📱 Android & iOS
+  Building mobile games with <strong>Godot 4</strong> and
+  <strong>GDScript</strong> for Android and iOS.
 </p>
 
 <br>
-
-<h2 align="center">🚦 FEATURED PROJECT</h2>
-
-<p align="center">
-  <strong>Currently in Development</strong>
-</p>
-
-<h1 align="center">Traffic it!</h1>
-
-<p align="center">
-  <em>A mobile traffic-management puzzle game.</em>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/traffic_it_banner.png"
-       alt="Traffic it!"
-       width="800">
-</p>
-
-<p align="center">
-  Control traffic lights, manage road flow and keep the city moving
-  through increasingly challenging levels.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00C853?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GODOT-4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
-  <img src="https://img.shields.io/badge/ANDROID-FIRST-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-</p>
 
 <table align="center">
 <tr>
@@ -101,21 +66,55 @@ Big possibilities.
 
 <br>
 
-<h2 align="center">🛠️ DEVELOPMENT</h2>
+<h2 align="center">🚦 FEATURED PROJECT</h2>
+
+<h1 align="center">Traffic it!</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,androidstudio,git,github,vscode">
+  <em>A mobile traffic-management puzzle game.</em>
 </p>
 
 <p align="center">
-  Godot 4 · GDScript · Android · iOS · Git · GitHub
+  Control traffic lights, manage road flow and keep the city moving
+  through increasingly challenging levels.
 </p>
 
-## 💻 Programming Background
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00C853?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GODOT-4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
+  <img src="https://img.shields.io/badge/ANDROID-FIRST-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+</p>
 
-Before focusing on game development, I've worked with several languages and technologies including:
+<br>
 
-`Python` · `JavaScript` · `Ruby` · `Ruby on Rails` · `Java` · `HTML` · `CSS`
+<h2 align="center">🛠️ GAME DEVELOPMENT</h2>
 
-My wider technical background also includes AI, automation and Microsoft technologies.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/game_dev.png"
+       alt="Game Development">
+</p>
 
+<br>
+
+<h2 align="center">💻 PROGRAMMING BACKGROUND</h2>
+
+<p align="center">
+  Python · JavaScript · Ruby · Rails · Java · HTML · CSS
+</p>
+
+<br>
+
+<h2 align="center">🌐 CONNECT</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/damien-baubriau/">
+    <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/linkedin.png"
+         alt="LinkedIn">
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>ROOTED IN CREATIVITY · GROWING TOMORROW</strong>
+</p>
