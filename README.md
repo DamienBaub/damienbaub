@@ -6,7 +6,7 @@
 
 <br>
 
-<h2 align="center">👋 Hi, I'm Damien</h2>
+<h2 align="center">Hi, I'm Damien</h2>
 
 <p align="center">
   <strong>Founder & Developer at Teralia Games</strong>
@@ -14,7 +14,7 @@
 
 <p align="center">
   I build mobile games with <strong>Godot 4</strong> and <strong>GDScript</strong>,
-  with Android as my primary platform and iOS planned alongside it.
+  Targeting Android and iOS
 </p>
 
 <p align="center">
