@@ -70,4 +70,31 @@
   <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00C853?style=for-the-badge">
   <img src="https://img.shields.io/badge/GODOT-4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
   <img src="https://img.shields.io/badge/ANDROID-FIRST-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-</p>6
+</p>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🎮 Mobile Focus
+
+Android & iOS
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ Built With
+
+Godot 4 & GDScript
+
+</td>
+<td align="center" width="33%">
+
+### 🌱 Indie Spirit
+
+Small ideas.  
+Big possibilities.
+
+</td>
+</tr>
+</table>
