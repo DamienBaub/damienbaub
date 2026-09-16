@@ -111,3 +111,11 @@ Big possibilities.
   Godot 4 · GDScript · Android · iOS · Git · GitHub
 </p>
 
+## 💻 Programming Background
+
+Before focusing on game development, I've worked with several languages and technologies including:
+
+`Python` · `JavaScript` · `Ruby` · `Ruby on Rails` · `Java` · `HTML` · `CSS`
+
+My wider technical background also includes AI, automation and Microsoft technologies.
+
