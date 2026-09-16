@@ -118,3 +118,9 @@ Big possibilities.
 <p align="center">
   <strong>ROOTED IN CREATIVITY · GROWING TOMORROW</strong>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/teralia_footer_banner.png"
+       alt="Teralia Games"
+       width="100%">
+</p>
