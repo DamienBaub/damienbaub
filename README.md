@@ -6,7 +6,7 @@
 
 <br>
 
-<h2 align="center">Hi, I'm Damien</h2>
+<h2 align="center">👋 Hi, I'm Damien</h2>
 
 <p align="center">
   <strong>Founder & Developer at Teralia Games</strong>
@@ -18,26 +18,22 @@
   for <strong>Android</strong> and <strong>iOS</strong>.
 </p>
 
-<p align="center">
-  I focus on clear mechanics, responsive controls
-  and gameplay that feels natural on mobile.
-</p>
-
 <br>
 
-<h2 align="center">THE TERALIA APPROACH</h2>
+<h2 align="center">🌱 THE TERALIA APPROACH</h2>
 
 <p align="center">
   <strong>Start simple. Make it playable. Make it feel right.</strong>
 </p>
 
 <p align="center">
-  I build mobile games around clear mechanics, responsive controls and satisfying interactions.
-  The goal is to create experiences that feel natural on mobile rather than games simply adapted to a smaller screen.
+  I prototype early, test often and refine each interaction until the game feels intuitive,
+  responsive and satisfying to play.
 </p>
 
 <p align="center">
-  Prototype early, play often, learn from what works and keep refining.
+  Every project grows through iteration — keeping the core idea clear while improving
+  the details that shape the final experience.
 </p>
 
 <br>
