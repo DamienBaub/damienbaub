@@ -51,14 +51,39 @@
 </p>
 
 <p align="center">
-  Control traffic lights, manage road flow and keep traffic moving through increasingly challenging levels.
+  Control traffic lights, manage road flow and keep traffic moving
+  through increasingly challenging levels.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00C8D7?style=for-the-badge">
-  <img src="https://img.shields.io/badge/GODOT-4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
-  <img src="https://img.shields.io/badge/GDSCRIPT-00C8D7?style=for-the-badge&logo=godot-engine&logoColor=white">
-  <img src="https://img.shields.io/badge/ANDROID-FIRST-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <strong>In Development</strong>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/godot4.png"
+       alt="Godot 4"
+       width="90">
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/gdscript.png"
+       alt="GDScript"
+       width="90">
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/android.png"
+       alt="Android"
+       width="90">
+  &nbsp;&nbsp;&nbsp;
+
+  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/ios.png"
+       alt="iOS"
+       width="90">
+</p>
+
+<p align="center">
+  Built with Godot 4 and GDScript · Android first · iOS planned
 </p>
 
 <br>
