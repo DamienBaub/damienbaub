@@ -56,34 +56,15 @@
 </p>
 
 <p align="center">
-  <strong>In Development</strong>
+  <strong>Status:</strong> In Development
 </p>
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/godot4.png"
-       alt="Godot 4"
-       width="90">
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/gdscript.png"
-       alt="GDScript"
-       width="90">
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/android.png"
-       alt="Android"
-       width="90">
-  &nbsp;&nbsp;&nbsp;
-
-  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/ios.png"
-       alt="iOS"
-       width="90">
-</p>
+<p align="center"><img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/godot4.png" alt="Godot 4" width="85">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/gdscript.png" alt="GDScript" width="85">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/android.png" alt="Android" width="85">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/ios.png" alt="iOS" width="85"></p>
 
 <p align="center">
-  Built with Godot 4 and GDScript · Android first · iOS planned
+  Godot 4 · GDScript · Android First · iOS Planned
 </p>
 
 <br>
