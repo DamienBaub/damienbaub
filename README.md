@@ -19,34 +19,23 @@
 
 <br>
 
-<br>
-
-<h2 align="center">🎮 HOW I BUILD</h2>
+<h2 align="center">🌱 THE TERALIA APPROACH</h2>
 
 <p align="center">
-  <strong>Simple ideas. Clear mechanics. Built for touch.</strong>
+  <strong>Start simple. Make it playable. Make it feel right.</strong>
 </p>
 
 <p align="center">
-  I focus on mobile games that are easy to understand, satisfying to interact with,
-  and designed around the device they are played on.
+  I build mobile games around clear mechanics, responsive controls and satisfying interactions.
+  The goal is to create experiences that feel natural on mobile rather than games simply adapted to a smaller screen.
 </p>
 
 <p align="center">
-  Every project starts small, gets playable quickly, and improves through testing,
-  iteration and attention to the little details that make a game feel right.
+  Prototype early, play often, learn from what works and keep refining.
 </p>
 
-<br>
-
 <p align="center">
-  <strong>📱 MOBILE FIRST</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>🎯 CLEAR GAMEPLAY</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>✨ POLISHED INTERACTIONS</strong>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>🔁 ITERATE OFTEN</strong>
+  <strong>Create · Iterate · Play · Grow</strong>
 </p>
 
 <br>
