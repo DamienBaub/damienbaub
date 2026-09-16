@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  Every project grows through iteration — keeping the core idea clear while improving
+  Every project grows through iteration, keeping the core idea clear while improving
   the details that shape the final experience.
 </p>
 
