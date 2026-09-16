@@ -1,79 +1,23 @@
----
-
 <p align="center">
-  <img src="https://github.com/DamienBaub/damienbaub/blob/main/github_banner.png">
+  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/teralia_banner.png"
+       alt="Teralia Games"
+       width="100%">
 </p>
 
-<h1>Hi 👋, I'm Damien</h1>
-
-<h3>Senior AI Technician | Mobile Game Developer 🇬🇧</h3>
-
-I’m a **Senior AI Technician** with experience across software development, technical support, client management and partner management.
-
-Alongside my work in AI, I develop **2D mobile games with Godot 4 and GDScript** for **Android and iOS**.
-
-I focus on creating polished, responsive and accessible mobile experiences, with particular attention to gameplay systems, touch controls, user interface design, performance and iteration.
-
-My previous experience in Account Executive and Sales Partner Management has given me a strong understanding of user needs, feedback and product experience. I bring that user-focused approach into both technical work and game development.
-
----
+<br>
 
 <p align="center">
-  <h3 align="center">🎮 GAMES IN DEVELOPMENT</h3>
+  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/teralia_logo.png"
+       alt="Teralia"
+       width="150">
 </p>
 
----
-
-### 🚦 Traffic it!
-
-*A mobile traffic-management puzzle game for Android and iOS.*
-
-`In Development` · `Godot 4` · `GDScript`
-
-Control traffic lights, manage road flow and clear increasingly challenging levels as efficiently as possible.
-
-More development updates and project pages will be added as the game progresses.
-
----
+<h1 align="center">TERALIA GAMES</h1>
 
 <p align="center">
-  <h3 align="center">🛠️ GAME DEVELOPMENT</h3>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/game_dev.png" alt="Game Development">
-</p>
-
----
-
-<p align="center">
-  <h3 align="center">💻 PROGRAMMING BACKGROUND</h3>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/prog.png" alt="Programming Experience">
-</p>
-
----
-
-<p align="center">
-  <h3 align="center">🌐 CONNECT</h3>
-</p>
-
----
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/damien-baubriau/">
-    <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/linkedin.png" alt="LinkedIn">
-  </a>
+  <strong>Independent Mobile Games</strong>
 </p>
 
 <p align="center">
-  <img src="https://github.com/DamienBaub/damienbaub/blob/main/github_banner2.png">
+  Small games. Brighter worlds.
 </p>
-
----
