@@ -13,8 +13,14 @@
 </p>
 
 <p align="center">
-  I build polished mobile games with <strong>Godot 4</strong> and <strong>GDScript</strong>,
-  targeting <strong>Android</strong> and <strong>iOS</strong>.
+  Solo indie developer building polished mobile games with
+  <strong>Godot 4</strong> and <strong>GDScript</strong>
+  for <strong>Android</strong> and <strong>iOS</strong>.
+</p>
+
+<p align="center">
+  I focus on clear mechanics, responsive controls
+  and gameplay that feels natural on mobile.
 </p>
 
 <br>
