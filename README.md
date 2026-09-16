@@ -36,33 +36,34 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/create.png"
-           alt="Create"
-           width="90">
-    </td>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/create.png"
+    alt="Create"
+    width="80"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/iterate.png"
-           alt="Iterate"
-           width="90">
-    </td>
+  <img
+    src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/iterate.png"
+    alt="Iterate"
+    width="80"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/play.png"
-           alt="Play"
-           width="90">
-    </td>
+  <img
+    src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/play.png"
+    alt="Play"
+    width="80"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-    <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/grow.png"
-           alt="Grow"
-           width="90">
-    </td>
-  </tr>
-</table>
+  <img
+    src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/grow.png"
+    alt="Grow"
+    width="80"
+  />
+</p>
 
 <br>
 
