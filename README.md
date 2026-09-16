@@ -98,3 +98,16 @@ Big possibilities.
 </td>
 </tr>
 </table>
+
+<br>
+
+<h2 align="center">🛠️ DEVELOPMENT</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=godot,androidstudio,git,github,vscode">
+</p>
+
+<p align="center">
+  Godot 4 · GDScript · Android · iOS · Git · GitHub
+</p>
+
