@@ -34,9 +34,44 @@
   Prototype early, play often, learn from what works and keep refining.
 </p>
 
+<br>
+
 <p align="center">
   <strong>Create · Iterate · Play · Grow</strong>
 </p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/create_icon.png"
+           alt="Create"
+           width="140"><br>
+      <strong>Create</strong><br>
+      Ideas into form
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/iterate_icon.png"
+           alt="Iterate"
+           width="140"><br>
+      <strong>Iterate</strong><br>
+      Improve through testing
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/play_icon.png"
+           alt="Play"
+           width="140"><br>
+      <strong>Play</strong><br>
+      Focus on fun
+    </td>
+    <td align="center" width="25%">
+      <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/grow_icon.png"
+           alt="Grow"
+           width="140"><br>
+      <strong>Grow</strong><br>
+      Build with purpose
+    </td>
+  </tr>
+</table>
 
 <br>
 
