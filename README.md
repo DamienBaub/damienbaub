@@ -36,39 +36,30 @@
 
 <br>
 
-<p align="center">
-  <strong>Create · Iterate · Play · Grow</strong>
-</p>
-
 <table align="center">
   <tr>
     <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/create.png"
            alt="Create"
-           width="140"><br>
-      <strong>Create</strong><br>
-      Ideas into form
+           width="90">
     </td>
+
     <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/iterate.png"
            alt="Iterate"
-           width="140"><br>
-      <strong>Iterate</strong><br>
-      Improve through testing
+           width="90">
     </td>
+
     <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/play.png"
            alt="Play"
-           width="140"><br>
-      <strong>Play</strong><br>
-      Focus on fun
+           width="90">
     </td>
+
     <td align="center" width="25%">
       <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/grow.png"
            alt="Grow"
-           width="140"><br>
-      <strong>Grow</strong><br>
-      Build with purpose
+           width="90">
     </td>
   </tr>
 </table>
