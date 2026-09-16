@@ -40,3 +40,34 @@
   ⚙️ Godot 4 &nbsp; • &nbsp;
   📱 Android & iOS
 </p>
+
+<br>
+
+<h2 align="center">🚦 FEATURED PROJECT</h2>
+
+<p align="center">
+  <strong>Currently in Development</strong>
+</p>
+
+<h1 align="center">Traffic it!</h1>
+
+<p align="center">
+  <em>A mobile traffic-management puzzle game.</em>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/traffic_it_banner.png"
+       alt="Traffic it!"
+       width="800">
+</p>
+
+<p align="center">
+  Control traffic lights, manage road flow and keep the city moving
+  through increasingly challenging levels.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-00C853?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GODOT-4-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white">
+  <img src="https://img.shields.io/badge/ANDROID-FIRST-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+</p>6
