@@ -63,10 +63,6 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/godot.png" alt="Godot 4" width="85">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/GDscript.png" alt="GDScript" width="85">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/android.png" alt="Android" width="85">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/DamienBaub/damienbaub/main/ios.png" alt="iOS" width="85"></p>
 
-<p align="center">
-  Godot 4 · GDScript · Android First · iOS Planned
-</p>
-
 <br>
 
 <h2 align="center">🛠️ DEVELOPMENT FOCUS</h2>
