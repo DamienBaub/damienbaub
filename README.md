@@ -19,34 +19,35 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+<br>
 
-### 🎮 Mobile Focus
+<h2 align="center">🎮 HOW I BUILD</h2>
 
-Android first  
-Responsive mobile experiences
+<p align="center">
+  <strong>Simple ideas. Clear mechanics. Built for touch.</strong>
+</p>
 
-</td>
-<td align="center" width="33%">
+<p align="center">
+  I focus on mobile games that are easy to understand, satisfying to interact with,
+  and designed around the device they are played on.
+</p>
 
-### ⚙️ Built With
+<p align="center">
+  Every project starts small, gets playable quickly, and improves through testing,
+  iteration and attention to the little details that make a game feel right.
+</p>
 
-Godot 4  
-GDScript
+<br>
 
-</td>
-<td align="center" width="33%">
-
-### 🌱 Teralia
-
-Solo indie development  
-Built one iteration at a time
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <strong>📱 MOBILE FIRST</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>🎯 CLEAR GAMEPLAY</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>✨ POLISHED INTERACTIONS</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>🔁 ITERATE OFTEN</strong>
+</p>
 
 <br>
 
