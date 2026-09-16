@@ -13,12 +13,8 @@
 </p>
 
 <p align="center">
-  I build mobile games with <strong>Godot 4</strong> and <strong>GDScript</strong>,
-  Targeting Android and iOS
-</p>
-
-<p align="center">
-  <strong>Create · Iterate · Play · Grow</strong>
+  I build polished mobile games with <strong>Godot 4</strong> and <strong>GDScript</strong>,
+  targeting <strong>Android</strong> and <strong>iOS</strong>.
 </p>
 
 <br>
