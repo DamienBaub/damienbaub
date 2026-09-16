@@ -40,9 +40,7 @@
 
 <br>
 
-<br>
-
-<h2 align="center">🚦 CURRENT PROJECT</h2>
+<h2 align="center">CURRENT PROJECT</h2>
 
 <h1 align="center">Traffic it!</h1>
 
