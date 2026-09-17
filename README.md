@@ -65,21 +65,21 @@
 
 <br>
 
-<h2 align="center">PROGRAMMING BACKGROUND</h2>
-
-<p align="center">
-  Python · JavaScript · Ruby · Ruby on Rails · Java · HTML · CSS
-</p>
-
-<br>
-
-<h2 align="center">🌐 CONNECT</h2>
+<h2 align="center">CONNECT</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/damien-baubriau/">
     <img src="https://img.shields.io/badge/LinkedIn-Damien%20Baubriau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="LinkedIn">
   </a>
+</p>
+
+<br>
+
+<h2 align="center">PROGRAMMING BACKGROUND</h2>
+
+<p align="center">
+  Python · JavaScript · Ruby · Ruby on Rails · Java · HTML · CSS
 </p>
 
 <br>
