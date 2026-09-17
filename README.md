@@ -72,8 +72,7 @@
 </p>
 
 <p align="center">
-  I build around the way mobile games are actually played —
-  touch-first controls, responsive layouts and interfaces that adapt cleanly across different screen sizes.
+  I build mobile-first experiences with responsive controls, adaptable layouts and interactions designed to feel natural across a wide range of mobile devices.
 </p>
 
 <br>
