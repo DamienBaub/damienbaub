@@ -65,26 +65,10 @@
 
 <br>
 
-<h2 align="center">DEVELOPMENT APPROACH</h2>
-
-<p align="center">
-  Mobile-first design · Responsive controls · Clear feedback · Smooth interaction · Performance-minded development
-</p>
-
-<p align="center">
-  I build mobile-first experiences with responsive controls, adaptable layouts and interactions designed to feel natural across a wide range of mobile devices.
-</p>
-
-<br>
-
-<h2 align="center">💻 PROGRAMMING BACKGROUND</h2>
+<h2 align="center">PROGRAMMING BACKGROUND</h2>
 
 <p align="center">
   Python · JavaScript · Ruby · Ruby on Rails · Java · HTML · CSS
-</p>
-
-<p align="center">
-  Outside game development, I work professionally with AI, Microsoft technologies, automation and technical solutions.
 </p>
 
 <br>
