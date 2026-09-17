@@ -20,7 +20,7 @@
 
 <br>
 
-<h2 align="center">THE TERALIA APPROACH</h2>
+<h2 align="center">MY APPROACH</h2>
 
 <p align="center">
   <strong>Start simple. Make it playable. Make it feel right.</strong>
