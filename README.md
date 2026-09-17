@@ -79,7 +79,7 @@
 <h2 align="center">PROGRAMMING BACKGROUND</h2>
 
 <p align="center">
-  Python · JavaScript · Ruby · Ruby on Rails · Java · HTML · CSS
+  Python · JavaScript · Ruby · Java · Ruby on Rails · HTML · CSS
 </p>
 
 <br>
