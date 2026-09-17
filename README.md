@@ -20,7 +20,7 @@
 
 <br>
 
-<h2 align="center">MY APPROACH</h2>
+<h2 align="center">THE TERALIA APPROACH</h2>
 
 <p align="center">
   <strong>Start simple. Make it playable. Make it feel right.</strong>
@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  Every project grows through iteration, keeping the core idea clear while improving
+  Every project grows through iteration, keeping the core idea clear while refining
   the details that shape the final experience.
 </p>
 
@@ -47,7 +47,7 @@
 <h1 align="center">Traffic it!</h1>
 
 <p align="center">
-  <em>A mobile traffic-management puzzle game for Android and iOS.</em>
+  <em>A mobile traffic-management puzzle game built around timing, flow and quick decisions.</em>
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@
 </p>
 
 <p align="center">
-  <strong>Status:</strong> In Development
+  <strong>In Development</strong>
 </p>
 
 <br>
