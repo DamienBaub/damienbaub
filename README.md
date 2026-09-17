@@ -65,15 +65,15 @@
 
 <br>
 
-<h2 align="center">🛠️ DEVELOPMENT FOCUS</h2>
+<h2 align="center">DEVELOPMENT APPROACH</h2>
 
 <p align="center">
-  Mobile gameplay systems · Touch controls · Responsive UI · Game feel · Performance · Iteration
+  Mobile-first design · Responsive controls · Clear feedback · Smooth interaction · Performance-minded development
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=godot,androidstudio,git,github,vscode"
-       alt="Development tools">
+  I build around the way mobile games are actually played —
+  touch-first controls, responsive layouts and interfaces that adapt cleanly across different screen sizes.
 </p>
 
 <br>
